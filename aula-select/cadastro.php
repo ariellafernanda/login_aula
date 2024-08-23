@@ -55,7 +55,7 @@ if(isset($_POST["bt_nome"])) {
 <div class='conteiner'>
 <form class="form" method="post">
     <p class="title">Cadastro</p>
-    <p class="message">Cadastra-se agora e tenha acesso total ao nosso aplicativo. </p>
+    <p class="message">Cadastra-se agora e tenha acesso total ao nosso site. </p>
         <div class="flex">
         <label>
             <input class="input" type="text" placeholder="" required=""  name="bt_nome" placeholder="Nome" required>
